@@ -1,5 +1,6 @@
 # text_analysis
 
+
 design:
 
 analysis() function:
@@ -7,9 +8,11 @@ analysis() function:
     analyzes and prints statistics
     Prints their output
 
+
 main function:
     takes a file name as input from the user,
     handles errors.
+
 
 Error Handling:
     On file or on input errors: outputs the error and exits.
@@ -18,7 +21,11 @@ Error Handling:
 
 Libraries:
     NLTK for text analysis.  [https://www.nltk.org/install.html]
+    
+    
     webcolors- for color names.
+    
+    
     collections for counter
 
 running example:
