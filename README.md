@@ -1,5 +1,7 @@
 # text_analysis
 
+A program that receives a text file as input
+And issues a statistical report on it.
 
 design:
 
