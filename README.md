@@ -20,20 +20,26 @@ Error Handling:
     On file or on input errors: outputs the error and exits.
 
 
+---------------------------------------------
 
 Libraries:
-    NLTK for text analysis.  [https://www.nltk.org/install.html]
+
+   NLTK for text analysis.  [https://www.nltk.org/install.html]
     
+   webcolors- for color names.
     
-    webcolors- for color names.
-    
-    
-    collections for counter
+   collections for counter
+
+
+---------------------------------------------
+
 
 running example:
 
 
-C:\Users\This_user\Documents\hadasim\analysis_assignment\venv\Scripts\python.exe C:/Users/This_user/Documents/hadasim/analysis_assignment/text_analysis.py
+```C:\Users\This_user\Documents\hadasim\analysis_assignment\venv\Scripts\python.exe C:/Users/This_user/Documents/hadasim/analysis_assignment/text_analysis.py
+
+C:/Users/This_user/Documents/hadasim/analysis_assignment/text_analysis.py
 
 Enter a file path
 
