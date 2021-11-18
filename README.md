@@ -33,4 +33,69 @@ Libraries:
 running example:
 
 
-[eg.pdf](https://github.com/EfratKenig/text_analysis/files/7533972/eg.pdf)
+C:\Users\This_user\Documents\hadasim\analysis_assignment\venv\Scripts\python.exe C:/Users/This_user/Documents/hadasim/analysis_assignment/text_analysis.py
+
+Enter a file path
+
+dickens.txt
+
+
+---------------------------------------------
+
+number of lines:    527502.
+
+---------------------------------------------
+
+number of words:    5712151.
+
+---------------------------------------------
+
+number of unique words:  45297.
+
+---------------------------------------------
+
+average sentence length:  19.89728021958883 words.
+
+---------------------------------------------
+
+longest sentence length:    356 words, 1989characters.
+
+---------------------------------------------
+
+most popular word:    ('the', 292244).
+
+---------------------------------------------
+
+most popular non grammatical word :    ('mr', 33381).
+green 783
+black 1778
+white 1376
+red 1328
+brown 386
+blue 594
+yellow 221
+grey 140
+purple 34
+olive 16
+snow 76
+navy 13
+gray 121
+crimson 17
+silver 37
+ivory 5
+tan 6
+gold 43
+pink 22
+lime 15
+coral 11
+linen 20
+plum 5
+orange 3
+tomato 1
+aqua 1
+chocolate 1
+indigo 4
+lavender 2
+
+Process finished with exit code 0
+
